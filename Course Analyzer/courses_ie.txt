@@ -1,0 +1,126 @@
+MATH 103 Calculus I - Differential
+Differential calculus including analytic geometry; functions, limits and continuity; derivatives, techniques and applications of differentiation; logarithmic and trigonometric functions.
+MATH 104 Calculus II – Integral
+Integral calculus including definite and indefinite integrals; techniques of integration; applications in mathematics and engineering; infinite series. (Prerequisite: MATH 201 or consent of instructor).
+PHYS 103 Physics I - Mechanics and Dynamics
+Introduction to classical mechanics for students in engineering and the physical sciences. Measurement, units, and foundations of physics; vectors; kinematics; circular motion; forces, mass, and Newton's laws; center of mass; momentum; work and energy; conservation laws; collisions; rotational kinematics.
+PHYS 103L Physics I – Lab: Mechanics and Dynamics
+Lab work on foundations of physics; vectors; kinematics; circular motion; forces, mass, and Newton's laws; center of mass; momentum; work and energy; conservation laws; collisions; rotational kinematics.
+PHYS 104 Physics II - Electromagnetics and Moderns Physics
+Rotational dynamics and angular momentum; equilibrium and elasticity; periodic motion including LRC electrical circuits; gravitation; fluid mechanics; temperature; thermal expansion; heat and the first law of thermodynamics; heat conduction; kinetic theory of gases; entropy and the second law; heat engines. (Prerequisite: PHYS 203 or consent of instructor).
+PHYS 104L Physics II – Lab: Electromagnetics and Moderns Physics
+Lab work on rotational dynamics and angular momentum; equilibrium and elasticity; periodic motion including LRC electrical circuits; gravitation; fluid mechanics; temperature; thermal expansion; heat and the first law of thermodynamics; heat conduction; kinetic theory of gases; entropy and the second law; heat engines. (Prerequisite: PHYS 203 or consent of instructor).
+LIFE 101 Life Sciences I- Biology
+Fundamentals of living creatures, cell structures, bio system; its relation with human activities.
+LIFE 102 Life Sciences II- Chemistry
+Basics of matters, elements and their compound under different circumstances. Its relation and mechanics in human body and surroundings
+ENGR 106 Introduction to Engineering
+Introduction to the art and science of engineering through the basics of mechanical, electrical, industrial and computer systems. Topics covered include: definition and history of engineering; ethics and social responsibility; engineering design process; engineering solutions; estimations and approximations; dimensions; units and conversions; mathematics and computer solutions; life- long learning; mechanics; energy and thermal sciences; electricity and electronics; materials; manufacturing; economics; statistics, and introduction to the various engineering disciplines and mechanical engineering sub-disciplines.
+MATH 205 Linear Algebra and Differential Equations
+Linear algebra including systems of linear equations; matrices, inverses of matrices; determinants; vector spaces and subspaces, bases and dimension. First order differential equations, including direction fields, separation of variables, first order linear equations, growth and decay, nonlinear models.
+ENGR 211 Introduction to Programming
+Introduction to programming and the organization of computers. Basic programming concepts, algorithms, data and control structures, debugging, program design, documentation, structured and object-oriented programming.
+ENGR 212 Programming Practice
+Basic data manipulation, vectors and arrays, execution control, functions, strings, file input and output, 2-D and 3-D plotting, matrix operations, linear equations, numerical methods: interpolation, curve fitting, numerical integration, numerical differentiation.
+ENGR 244 Engineering Materials
+Introduces the student to the main families of materials and the principles behind their development, selection, and behavior. Discusses the generic structures and properties of metals, ceramics, polymers, composites, semi-conductors relevant to industrial applications. The relationship of properties to structure and processing is emphasized in every case.
+ENGR 246 Manufacturing Processes
+Manufacturing properties of metals and alloys, non-metallic materials; Fundamental manufacturing processes such as deformation, material removal joining particulate, ceramic-based, polymer-based, microelectronic; Economic aspects; Videos, demonstrations, and industrial site tours to illustrate modern industrial practice. Basic understanding of conversion of raw materials into components, design, analysis and selection of appropriate processes for given open-ended problems.
+ENGR 251 Probability for Engineers
+Collection, organization and presentation of data. Introduction to probability theory, counting theorems, conditional probability and independence. Random variables, expectation, discrete probability models, continuous probability models, normal and related distributions. Sampling distributions, central limit theorem. Point and interval estimation. (Prerequisite: MATH 201 or consent of instructor)
+ENGR 252 Statistics for Engineers
+Hypothesis testing, concepts and applications. Single- and multi- factor analysis of variance. Analysis of categorical data. Correlation and regression analysis. Nonlinear and multiple regression. Non-parametric statistics. (Prerequisite: IE 232 or consent of instructor).
+IE 200 SUMMER PRACTICE
+Students are required to spend minimum of 5 weeks (25 work days) in industry/business and obtain practical experience on departments, topics and practices related to Industrial Engineering. At the end of the summer practice, students will write a technical report and submit it to the department.
+IE 300 SUMMER PRACTICE
+Students are required to spend minimum of 5 weeks (25 work days) in industry/business and obtain practical experience on departments, topics and practices related to Industrial Engineering. At the end of the summer practice, students will write a technical report and submit it to the department.
+IE 314 Database Management Systems
+The relational model; storing data: Disks, files, file organizations, indexes; conceptual design and the ER model; schema refinement and normal forms; physical database design and tuning; SQL: The Query Language; data warehousing, OLAP, data mining; networked databases.
+IE 321 Deterministic Models in Operation Research
+Analysis and mathematical modeling of decision-making problems in a deterministic environment. Linear, integer, nonlinear, and dynamic programming; network models. (Prerequisite: MATH 206 or consent of instructor).
+IE 322 Stochastic Models in Operation Research
+Analysis and mathematical modeling of decision-making problems in an uncertain (stochastic) environment. Discrete-time Markov chains, Poisson processes, continuous-time Markov chains, and renewal theory. Applications to queuing systems, inventory, and reliability. (Prerequisite: IE 321 or consent of instructor)
+IE 324 Simulation
+Development of a simulation language such as GPSS/H or SIMAN for modeling production, inventory, finance, transportation, public and health systems. Statistical analysis of simulation input/output data, design of simulation experiments, other elements of simulation analysis and generation of random numbers. (Prerequisite: IE 351 or consent of instructor).
+IE 343 Production Planning and Control
+Production management, forecasting methods, descriptive and explanatory models, classification of production systems, facility layout and location, single and multifacility location problems, time and motion study, work sampling methods, work design, capacity planning, maintenance function.
+IE 426 Decision Analysis
+Decision making in case of uncertainty, incomplete information, multiple objectives, and subjective judgment and preferences. The course offers a set of tools to help structure decision problems and generate creative alternatives, quantify uncertainty, quantify subjective judgment, and, combine all this in an optimal choice model. The course objective is to teach basic concepts and skills necessary to deal with such efforts. (Prerequisite: Senior standing and consent of instructor).
+IE 451 Project Management
+Projects are all the work that's done one time, and ongoing operations represent the work we do over and over. These two types of work require different management approaches and techniques. This course introduces project management issues and techniques, which the students are required to apply to real-world projects. Project selecting, structuring, scheduling, budgeting, resource management, and project control are the main topics. (Prerequisite: Senior standing).
+ENGR 497 Global Design Project I
+Investigation and report on a special (real-life) project under the guidance of the project supervisor. It requires analyzing a well defined engineering problem (of practical nature) and designing a new / improved system to solve it. Students are expected to apply a synthesis of knowledge and skills acquired in different courses. The course involves lectures, team presentations, industry / business visits, report writing. (Prerequisite: Senior standing).
+ENGR 498 Global Design Project II
+Investigation and report on a special (real-life) project under the guidance of the project supervisor. It requires analyzing a well defined engineering problem (of practical nature) and designing a new / improved system to solve it. Students are expected to apply a synthesis of knowledge and skills acquired in different courses. The course involves lectures, team presentations, industry / business visits, report writing. (Prerequisite: Senior standing).
+IE 425 Scheduling and Sequencing
+This course covers deterministic scheduling and sequencing problems such as single machine scheduling, parallel machine scheduling, flow shop scheduling, and job shop scheduling. An introduction to neighborhood search techniques, such as genetic algorithms, tabu search, simulated annealing, and ant systems, are also covered. (Prerequisite: Senior standing).
+IE 434 Quality Engineering
+Total Quality Management; history, concepts, principles, tools and models. Principles of quality control systems, process control and capability concepts, control charts, acceptance sampling plans, cost of quality, modern concepts in quality control and management. (Prerequisite: Consent of instructor).
+ENGR 461 Computer Aided Engineering (CAE)
+Introduction to engineering graphics, computer-aided engineering (CAE) and computer-aided design (CAD), and freehand sketching. Develop CAD proficiency using advanced 3-D software. Graphical presentation of design: solid modeling, views, sections, dimensioning, and tolerancing.
+IE 463 Finance For Engineers
+Quantitative methods: Time value of money, the investment setting, stock market analysis. Macro-economic and microeconomic analysis, global economic analysis. Financial statement analysis: Basic concepts, financial ratios and earnings per share, assets, liabilities. Corporate Finance: corporate investing and financing decisions. Asset valuation: Markets and instruments, equity investments. Debt investments: analysis and valuation. Derivative investments, alternative investments. Portfolio management: Capital market theory. (Prerequisite: Senior standing).
+IE 471 Ergonomics
+Relationship between man and work environment, human body and physiological functions, anatomy and anthropometry in equipment design, environmental factors. Measurement of human work capabilities in the industrial environment.
+IE 493 Seminars in Industrial Engineering
+Investigating and modeling a special topic from an industrial engineer’s point of view. Students are required to prepare a paper, study in detail and present it before the selected members of the department. (Prerequisite: Senior Standing).
+IE 494 Special Topics in Industrial Engineering
+Selected topics of current interest in Industrial Engineering. (Prerequisite: Senior Standing).
+ISE 521 Introduction to Operation Research and Industrial Engineering Topics
+The term ‘operations research (OR)’ means "scientific approach to decision making". In OR, the objective is to optimally design and operate a system, usually under conditions that require allocation of limited resources, and usually under lack of complete information. This is a survey course in OR. Topics include linear programming, network analysis, probability theory, queueing theory, project management, dynamic programming, inventory theory, and nonlinear programming. The analysis of these models using Excel spreadsheets will be emphasized.
+ISE 523 Linear Programming
+This is a theoretical introductory course for first year graduate students. The primary objective is to provide the students with a deep understanding of the concepts that underlie all linear programming algorithms and also understand how and why some of the current algorithms solve linear programming models. Topics include: theory of linear programming; convexity; simplex and algorithmic aspects; duality and sensitivity; computational issues; decomposition and column generation; introduction to integer and nonlinear programming.
+ISE 524 Computer Simulation Techniques
+This course builds a holistic framework for analyzing complicated systems in modern manufacturing and service industries. Process view of organizations is reinforced in a consistent manner and the analysis and improvement of such systems are studied using computer simulations. Simulation Basics; Queueing Applications; Inventory Applications; Validation and Verification; Group Project.
+ISE 525 Dynamic Programming
+Introduction to theory and computational aspects of dynamic programming and its application to sequential decision problems. Knap-sack problem, equipment replacement, travelling salesman problem. Stochastic dynamic programming.
+ISE 526 Stochastic Processes
+Probabilistic models that are widely used in engineering and management science. Markov Chains; Renewal Theory; Markov Decision Processes: Queueing Theory; Inventory Control. A course in the theory of probability is a prerequisite.
+ISE 531 Probability and Statistics for Engineers
+General probability and statistical concepts and techniques useful for engineers and researchers in engineering. Topics include : Combinatorial probability, independence, conditional probability, random variables, discrete and continuous probability models, expectation and moments, central limit theorem, estimation, confidence intervals, hypothesis testing, tests of means and variances, goodness-of-fit, regression, analysis of variance, and introduction to experimental design.
+ISE 532 Reliability Engineering
+The reliability concept and the methods to measure the reliability of the complex engineering systems. Optimization theory and statistical analysis will be used to evaluate and optimize the system reliability. Reliability and hazard functions, system reliability evaluation, system reliability optimization, time and failure dependent reliability.
+ISE 533 Econometrics and Forecasting
+Simple and multiple regression models; relaxing the assumptions of the classical model: multi-collinearity, heteroscedasticity, autocorrelation, model specification. Topics in econometrics: regression on dummy variables, the LPM, logit and probit models, autoregressive and distributed lag models; simultaneous-equation models.
+ISE 534 Data Mining
+Definitions, introduction, examples, and the process data preparation and reduction, brief review of regression, decision trees, neural networks, k-nearest neighbor, cluster analysis, association rule mining, Principal components, pruning, boosting, bagging, cross-validation, bootstrapping.
+ISE 535 Quality Management
+Audit objectives and responsibilities, selection of lead auditor, evaluation of auditor candidates, audit team, managing an audit program. Initiating, preparing and executing an audit, audit documents, audit completion, corrective action follow-up. (Prerequisite: Senior standing and consent of instructor).
+ISE 537 Applied Data Analysis
+Basic concepts and techniques in applied data analysis including regression modeling, analysis of variance, and experimental design. Multiple regression, logistic regression, analysis of variance, and experimental designs (one-way, randomized block designs, multi-way factorials, incomplete blocks, and repeated measures). Statistical methods and models that are widely used across many disciplines.
+ISE 538 Design of Experiments
+Principles of experimental design: randomization, blocking, transformations, fixed and random effects. Single factor experiments, Latin squares, factorial experiments, analysis of covariance, response surface design.
+ISE 541 Lean Manufacturing and Operations
+Overview of lean principles; Lean philosophy, history and basic methods; Lean system design: current state, optimal state and pull design; Pull system mechanics: Kanban, containerization, tools to determine and control inventory; Factory layout for lean manufacturing: basic models and options; Lean system design: analysis of throughput, cycle time, bottlenecks, material flow; Impact of supply chain; Integration of six-sigma into lean; (Prerequisite: Senior standing).
+ISE 542 Advanced Materials Science for Engineers
+Principles of structure and processing on advanced materials for functional use. Methods of treatment and processing for structural improvement. Materials under stress and strain, defect mechanisms and flow. Electrical, optical and magnetic properties of materials with comprehensive coverage of electronic properties in metals, semiconductors, and insulators at a fundamental level. Mechanical and electrical test and analytical methods. Fundamental solid-state properties and new technologies that lead to nanomaterials, thin film technologies and cutting-edge products.
+ISE 543 Micro-fabrication
+This graduate and senior undergraduate course presents a broad overview of micro-nanofabrication technologies and the science of miniaturization to engineering and science students. This science comprises an understanding of the intended application, knowledge of the different manufacturing options, familiarity with all material choices, and an understanding of scaling laws. Different options to make very small machines (micro and nano size) are reviewed and materials choices are discussed..
+ISE 544 Design for Manufacturability
+Interactive relations between material, design, manufacturing, and service for a product will be discussed using case studies. Design for manufacturability and sustainability will be exercised on open-ended industrial problems. Impact of design on manufacturing, part and service cost; Impact of design on manufacturability, assembly, waste; energy utilization; case studies.
+ISE 545 Modern Manufacturing Technologies
+In this course, several modern manufacturing processes and system types will be discussed with real examples and cases from industry. Developments in traditional manufacturing process technologies; non-traditional manufacturing processes; manufacturing system types and emerging paradigms; selection of manufacturing processes and systems for selected products.
+ISE 546 Manufacturing Systems
+Modern manufacturing systems; Manufacturing system types and classification; Major differences and interactions between different manufacturing systems; Manufacturing system design, analysis and simulation (Prerequisite: Consent of instructor).
+ISE 547 Nano-manufacturing and devices
+This graduate and senior undergraduate course gives an overview of the main directions in nanotechnology/nanoscience, presents existing applications, and makes a critical presentation of some of the future visions in nanotechnology. Students will be provided with a survey of key concepts and state of the art research in the areas of nanotubes, nanowires, nanoparticle applications, nanoelectronics, photonics, nanobiotechnology, scanning probe microscopy, and surface science
+ISE 548 Product Design and Innovation
+New product development requires teams of technical and non-technical people to work across disciplines. This course covers a wide range of topics concerning customer driven product innovation, new product development processes, tools, techniques, and organizational skills.
+ISE 549 Solar Energy
+The class outlines the relevance of photovoltaics today and in the future. Then follows an introduction to the physical background of solar cells and the most important materials and technologies, with emphasis on future developments and prospects. Semiconductors and physics of solar cells; Silicon solar cell materials and technology; Thin-film silicon and future concepts and other new solar materials; Solar cells, solar modules and PV systems and manufacturing; Efficiency and performance of PV systems; Competing forms of renewable energy.
+ISE 551 Advanced Topics in Project Management
+Developing basic PM skills; Initiating a project; Planning and acquiring resources; Assessing risk; Developing the project plan; Budgeting; Execution and controlling outcome; Assemble team; Problem resolution; Monitor project processes; Close-out the project.
+ISE 552 Logistics and Supply Chain Management
+Demand Forecasting; Logistics Network Design; Contracting in Supply Chains; Bullwhip Effect, Information Sharing, Vendor-Managed Inventory; Supply Chain Design – Efficient vs. Responsive Supply Chains; Sourcing: Procurement Auctions, Forward Buying; Quality and Supply Risks; Pricing: Dynamic Pricing, Revenue Management. A background in Production Operations Management is needed.
+ISE 553 Engineering Management
+The course will address the organizational behavior and challenges for engineers, especially dynamics of globally distributed work teams. It will focus on developing practical new approaches to typical managerial problems faced in all sizes of corporate local or global companies. There will be emphasis on converting problematic situations into opportunities for improvement. Understand role and function of management in an organization; Alternative strategies to generic problems; Leadership and enhancing creativity; Successful work teams and communication skills; Conflict resolution; Time and stress management.
+ISE 554 Technology and R&D Management
+Historical Development. Functions of Technology Management: Planning and Forecasting, Decision Making, Human Aspects of Organizing, Leading Technical People, Controlling. Managing Technology: Managing Research and Development, Managing Engineering Design, Planning Production Activity, Managing Production Operations, Engineers in Marketing and Service Activities. Managing Projects: Project Planning and Acquisition, Project Organization, Leadership, and Control. Engineering Ethics. Globalization and Challenges for the Future.
+ISE 556 Strategic Management
+Strategic Management Approaches, The Tree of Business, Corporate Vision. Three Hierarchical Levels of Strategy, Strategy Pyramid. Strategic Programming Model for Stable Environment. Environmental Analysis, Competitive Analysis, Strategy Formulation, SWOT Analysis. Strategy Implementation, Strategic Leadership, Performance Management: Balanced Scorecard.
+ISE 561 Engineering Economy and Decision Analysis
+Economic parameters play a significant role in decision making. This course introduces key economic, financial and accounting concepts for the engineering student and builds a framework for managerial decision making. Time Value of Money; Cash Flow Analysis; Risk Analysis, Decision Trees and Real Options; Cost Accounting Basics; Managerial Accounting.
+ISE 571 Facility Layout Planning
+Design of production, distribution and inventory systems. Process design, materials handling, work area design, storage and warehousing, service area planning. Machine scheduling; number, size and location of facilities in a system; capacity planning; design of delivery routes.
+ISE 572 Game Theory
+Decision making under uncertainty; Simultaneous move games; Stackelberg leadership model; Double Marginalization in Supply Chains and Supply Chain Coordination; Bargaining Models: Theory and Practice; Cooperative Game Theory; Principle-Agent Model; Mechanism Design; Optimal Auction Design.
